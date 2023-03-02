@@ -6,6 +6,6 @@
 
 现自由职业。
 
-已开发的小程序：
+## 小程序
 
 ![](imgs/hefeng-history-dict-weapp.jpg) ![](imgs/self-discipline-weapp.jpg)
