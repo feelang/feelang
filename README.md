@@ -8,4 +8,4 @@
 
 已开发的小程序：
 
-![](imgs/hefeng-history-dict-weapp.jpg)
+![](imgs/hefeng-history-dict-weapp.jpg) ![](imgs/self-discipline-weapp.jpg)
