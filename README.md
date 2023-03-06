@@ -9,3 +9,11 @@
 ## 小程序
 
 ![](imgs/hefeng-history-dict-weapp.jpg) ![](imgs/self-discipline-weapp.jpg)
+
+## 教程
+
+* [Jekyll](https://github.com/feelang/jekyll-tutorial)
+* [TypeScript](https://github.com/feelang/typescript-tutorial)
+* [Flutter](https://github.com/feelang/flutter-tutorial)
+* [Sass](https://github.com/feelang/sass-tutorial)
+    * [CSS](https://blog.csdn.net/feelang/category_12029696.html)
