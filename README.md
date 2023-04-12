@@ -8,7 +8,7 @@
 
 ## 小程序
 
-![](imgs/hefeng-history-dict-weapp.jpg) ![](imgs/self-discipline-weapp.jpg)
+![](imgs/senluoshe-weapp.jpg) ![](imgs/senluo-nihongo-weapp.jpg) ![](imgs/hefeng-history-dict-weapp.jpg) ![](imgs/hefeng-zen-weapp.jpg) ![](imgs/self-discipline-weapp.jpg) 
 
 ## 教程
 
