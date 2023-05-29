@@ -12,7 +12,7 @@
 ![](imgs/senluo-nihongo-weapp.jpg) 
 ![](imgs/hefeng-history-dict-weapp.jpg) 
 ![](imgs/hefeng-zen-weapp.jpg) 
-![](imgs/self-discipline-weapp.jpg) 
+![](https://feelang.github.io/assets/images/weapps/self-discipline-weapp.jpg)
 
 ## 技术教程
 
