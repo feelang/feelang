@@ -6,7 +6,7 @@
 
 现自由职业。
 
-## 📱小程序 (Weapps)
+## 小程序 (Weapps)
 
 ![](imgs/senluoshe-weapp.jpg) 
 ![](imgs/senluo-nihongo-weapp.jpg) 
@@ -14,7 +14,7 @@
 ![](imgs/hefeng-zen-weapp.jpg) 
 ![](https://feelang.github.io/assets/images/weapps/self-discipline-weapp.jpg)
 
-## 💡技术教程 (Tutorials)
+## 技术教程 (Tutorials)
 
 * [✅ Jekyll](https://github.com/feelang/jekyll-tutorial)
 * [TypeScript](https://github.com/feelang/typescript-tutorial)
@@ -22,7 +22,7 @@
 * [Sass](https://github.com/feelang/sass-tutorial)
 * [CSS](https://blog.csdn.net/feelang/category_12029696.html)
 
-## 🌐 建站 (Websites)
+## 建站 (Websites)
 
 * [senluoshe.com](https://senluoshe.com)
 * [liangfei.me](https://liangfei.me)
