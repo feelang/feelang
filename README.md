@@ -16,6 +16,7 @@
 
 ## 技术教程
 
+[![](https://feelang.github.io/assets/images/tutorials/jekyll.png)](https://feelang.github.io/tutorials/jekyll/)
 * [Jekyll](https://github.com/feelang/jekyll-tutorial)
 * [TypeScript](https://github.com/feelang/typescript-tutorial)
 * [Flutter](https://github.com/feelang/flutter-tutorial)
