@@ -1,29 +1,20 @@
-### Hi there 👋
+# feelang
 
-十年以上编程经验，精通多种编程语言和框架。
+> 语言学爱好者、创业者
+> - 日语：[everjapan](https://github.com/everjapan)
+> - 英语
+> - 韩语
+> - 汉语
+> - ……
 
-曾在杭州某互联网大厂做过多年前端（React）和后端（Java/SpringBoot）开发。
+## Social Media
 
-现自由职业，专做学习类产品。
+- 博客：https://feelang.github.io/
+- 知乎：https://www.zhihu.com/people/liangfei.me
+- 小红书：https://xhslink.cn/m/9H0rlVEzqSS
+- 抖音：feelang
 
-## 小程序 (Weapps)
+## Products
 
-![](imgs/senluoshe-weapp.jpg) 
-![](imgs/senluo-nihongo-weapp.jpg) 
-![](imgs/hefeng-history-dict-weapp.jpg) 
-![](imgs/hefeng-zen-weapp.jpg) 
-![](https://feelang.github.io/assets/images/weapps/self-discipline-weapp.jpg)
-
-## 技术教程 (Tutorials)
-
-* [✅ Jekyll](https://github.com/feelang/jekyll-tutorial)
-* [TypeScript](https://github.com/feelang/typescript-tutorial)
-* [Flutter](https://github.com/feelang/flutter-tutorial)
-* [Sass](https://github.com/feelang/sass-tutorial)
-* [CSS](https://blog.csdn.net/feelang/category_12029696.html)
-
-## 建站 (Websites)
-
-* [senluoshe.com](https://senluoshe.com)
-* [liangfei.me](https://liangfei.me)
-* [hefengcloud.com](https://hefengcloud.com)
+- 日语学习：[日系生活家](https://everjapan.com/)
+- 日本历史社区：[森罗社](https://senluoshe.com/)
