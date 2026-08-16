@@ -4,6 +4,7 @@
 > - 日语：[everjapan](https://github.com/everjapan)
 > - 英语
 > - 韩语
+> - 印尼语
 > - 汉语
 > - ……
 
